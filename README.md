@@ -14,6 +14,13 @@ you need to modify some file path in the demo.py
     python3 demo.py
 ```
 
+## The File Structure
+The file needs to be look like
+```
+├── 00001.jpg
+├── 00002.jpg
+|── 00003.jpg
+```
 ## Refer to this Rep.
 If you found our work is useful, thanks to you to cite our paper and star.
 ```
